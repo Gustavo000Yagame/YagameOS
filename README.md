@@ -17,7 +17,7 @@
 
 O **YagameOS** foi desenhado do zero para extrair o máximo do hardware limitado do **Raspberry Pi 3 (armhf)**. Em vez de usar distros pesadas cheias de serviços desnecessários, ele roda um **kernel Linux customizado** direto sobre o hardware, inicializando em segundos com uma interface gráfica própria via **DRM/KMS e SDL2**.
 
-<img width="1425" height="900" alt="image" src="https://github.com/user-attachments/assets/1e3753fd-c81e-4f8e-b174-c55574bcc16f" /><img width="461" height="303" alt="image" src="https://github.com/user-attachments/assets/941e8a9a-db53-4bb2-87c8-97e838dc9067" />
+<img width="1425" height="900" alt="image" src="https://github.com/user-attachments/assets/1e3753fd-c81e-4f8e-b174-c55574bcc16f" /><img width="461" height="303" alt="image" 
 
 ```text
 +-------------------------------------------------------------+
@@ -53,3 +53,5 @@ YagameOS/
 [ ] Fase 1: Integração do subsistema gráfico SDL2 e primeiro loop de renderização.
 
 [ ] Fase 2: Implementação do gerenciador de entradas (uinput / controles).
+
+src="https://github.com/user-attachments/assets/941e8a9a-db53-4bb2-87c8-97e838dc9067" />
