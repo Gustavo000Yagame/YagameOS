@@ -54,4 +54,7 @@ YagameOS/
 
 [ ] Fase 2: Implementação do gerenciador de entradas (uinput / controles).
 
-<img width="461" height="303" alt="image"src="https://github.com/user-attachments/assets/941e8a9a-db53-4bb2-87c8-97e838dc9067" />
+```
+<img width="461" height="303" alt="image" src="https://github.com/user-attachments/assets/59b06522-3fdc-44d1-be72-22e0b2dd00fc" />
+
+
