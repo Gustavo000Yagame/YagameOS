@@ -33,7 +33,23 @@ O **YagameOS** foi desenhado do zero para extrair o máximo do hardware limitado
 +-------------------------------------------------------------+
 ```
 
-<img width="461" height="303" alt="image" src="https://github.com/user-attachments/assets/59b06522-3fdc-44d1-be72-22e0b2dd00fc" />
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/59b06522-3fdc-44d1-be72-22e0b2dd00fc" width="100%" alt="Raspberry Pi 3 Model B" />
+    </td>
+    <td width="50%" valign="top">
+
+### 🧩 Hardware Alvo
+* **SoC:** Broadcom BCM2837 (Quad-core 1.2GHz ARM Cortex-A53)
+* **Arquitetura:** `armhf` (ARMv7 32-bit otimizado)
+* **GPU:** VideoCore IV @ 300MHz (OpenGL ES 2.0 / DRM/KMS)
+* **RAM:** 1GB LPDDR2 (Compartilhada)
+* **Saída de Vídeo:** HDMI nativo sem X11/Wayland
+
+    </td>
+  </tr>
+</table>
 
 ```
 🚀 Principais Características
