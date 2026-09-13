@@ -31,6 +31,9 @@ O **YagameOS** foi desenhado do zero para extrair o máximo do hardware limitado
 +-------------------------------------------------------------+
 |  [ Hardware Target ]        (Raspberry Pi 3 Model B/B+)     |
 +-------------------------------------------------------------+
+
+<img width="461" height="303" alt="image" src="https://github.com/user-attachments/assets/59b06522-3fdc-44d1-be72-22e0b2dd00fc" />
+
 🚀 Principais Características
 Boot Instantâneo: Sem gerenciadores de boot pesados (como U-Boot) ou initramfs no MVP.
 
@@ -55,6 +58,6 @@ YagameOS/
 [ ] Fase 2: Implementação do gerenciador de entradas (uinput / controles).
 
 ```
-<img width="461" height="303" alt="image" src="https://github.com/user-attachments/assets/59b06522-3fdc-44d1-be72-22e0b2dd00fc" />
+
 
 
