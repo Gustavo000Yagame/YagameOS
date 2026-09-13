@@ -52,6 +52,7 @@ YagameOS/
 ├── yagame-external/    # Configurações de board, pacotes e device tree
 ├── yagame/             # Código-fonte da aplicação e interface (C/C++)
 └── scripts/            # Automação de builds e geração de imagem
+
 🛠️ Status do Desenvolvimento
 [x] Fase 0: Setup do ambiente WSL2, compilação cruzada e validação de boot serial no hardware.
 
