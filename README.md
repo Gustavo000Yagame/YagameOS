@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐧 YagameOS
+# <img width="1408" height="768" alt="YagameOS" src="https://github.com/user-attachments/assets/794ebc05-eda2-44ff-b988-d038165b7cf2" /> YagameOS
 
 <img src="https://img.shields.io/badge/Platform-Raspberry%20Pi%203-c51a4a?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
 <img src="https://img.shields.io/badge/Kernel-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
