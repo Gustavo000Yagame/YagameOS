@@ -1,0 +1,11 @@
+*.html linguist-detectable=false
+*.html linguist-documentation
+YagameOS-Web/* linguist-vendored
+
+*.S linguist-language=Assembly
+*.asm linguist-language=Assembly
+
+
+*.c linguist-language=C
+*.h linguist-language=C
+*.cpp linguist-language=C++
