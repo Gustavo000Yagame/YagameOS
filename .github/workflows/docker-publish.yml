@@ -1,4 +1,4 @@
-name: Publish Docker Image to Packages
+name: Build and Push Docker Image
 
 on:
   push:
@@ -25,7 +25,8 @@ jobs:
       - name: Build and Push Docker Image
         uses: docker/build-push-action@v5
         with:
-          context: .
+          context: ./YagameOS-Web
+          file: ./YagameOS-Web/Dockerfile
           push: true
           tags: |
             ghcr.io/gustavo000yagame/yagameos/yagameos-server:v0.23
